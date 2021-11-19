@@ -1,4 +1,4 @@
-### Hi there 👋 i am Lefti.
+### Hi there 👋 i am Lefteris Vangelis, i study Informatics and Computer Engineering in University of West Attica.
 
 <!--
 **Lefti97/Lefti97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
