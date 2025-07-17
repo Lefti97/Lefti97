@@ -1,4 +1,4 @@
-### Hi there 👋 i am Lefteris Vangelis, i study Informatics and Computer Engineering in University of West Attica.
+### Hi there 👋 i am Lefteris Vangelis, i am a graduate of the Department of Informatics and Computer Engineering at University of West Attica. I am interested in back end development and systems programming. SHoot me an email if interested in working with me.
 
 <!--
 **Lefti97/Lefti97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
